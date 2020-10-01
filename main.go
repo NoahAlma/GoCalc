@@ -9,7 +9,7 @@ import (
 func main() {
 	getOperation:
         var operation string
-	fmt.Print("Welcome! Please choose an operation: +, -, *, /")
+	fmt.Print("Welcome! Please choose an operation (+, -, *, /): ")
         fmt.Scanln(&operation)
 
 	var num1 string
