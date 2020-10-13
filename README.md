@@ -1,3 +1,3 @@
-# A small calculator I did with Golang
+# A small calculator I made with Golang
 
 
